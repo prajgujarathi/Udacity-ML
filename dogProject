@@ -1,4 +1,0 @@
-Welcome to the new Deep Learning content for MLND. If you have been working on the old content you will still be able to find that in the electives section. As far as the project is concerned, you have until August 18th, 2017 to submit the old project. If you are submitting that project as part of your Nanodegree, please write in to us at machine-support@udacity.com so we can account for that as part of your graduation. Thank you!
-
-Project Overview
-Welcome to the Convolutional Neural Networks (CNN) project! In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
