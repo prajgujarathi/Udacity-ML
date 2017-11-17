@@ -2,6 +2,10 @@ https://www.kaggle.com/c/instacart-market-basket-analysis
 PROBLEM STATMENT
 In this project goal is to use previous transactional data of customer to develop models that predict which products a user will buy again. 
 
+Project Proposal file :Instacart Market Basket Analysis.docx
+Project Report file : Instacart Market Basket Analysis Project Report.docx
+
+Data Exploration and visualization: Instacart.ipynb
 How To Run:
 
 Download data from: https://www.kaggle.com/c/instacart-market-basket-analysis/data
