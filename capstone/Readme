@@ -18,3 +18,5 @@ baselinemodel.py
 xgboost_no_tunning.py
 xgb.py
 predict_test_xgb.py
+
+Final predictions are stored in final_predication_xgb.csv
